@@ -1,1 +1,1 @@
-# git edit my computer oke 
+# git edit my computer
